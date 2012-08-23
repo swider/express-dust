@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/swider/express-dust.png)](http://travis-ci.org/swider/express-dust)
 # Dust Template Engine for ExpressJS
 
 This express module allows you to use [Dust](http://akdubya.github.com/dustjs/) as your template engine.
