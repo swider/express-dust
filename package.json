@@ -1,6 +1,6 @@
 {
 	"name": "express-dust",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"description": "ExpressJS DustJS View Renderer",
 	"author": "Dav Glass <davglass@gmail.com> @davglass",
 	"contributors":[
@@ -10,7 +10,7 @@
 		"Nick Swider <nick@fleet54.com> (http://nickswider.com)"
 	],
 	"bugs": { "url" : "http://github.com/swider/express-dust/issues" },
-	"os": ["darwin", "linux"],
+	"os": ["darwin", "linux", "win32"],
 	"engines": {
 		"node" : ">=0.4.0"
 	},
